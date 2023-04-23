@@ -1,4 +1,4 @@
 # Face-and-Eye-Detection
-Concurrent Detection of Faces and Eyes via Haarcascade Models
+Concurrent detection of faces and eyes via Haarcascade models
 
 ![FaceAndEye](FaceAndEye.png)
